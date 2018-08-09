@@ -1,1 +1,5 @@
-aaa+a & a
+<<<<<<< HEAD
+aaa+a and a
+=======
+aaa+a and a
+>>>>>>> haha
